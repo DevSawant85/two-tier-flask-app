@@ -45,6 +45,3 @@ services:
 
 networks:
   two-tie:
-
-volumes:
-  mysql-data:
